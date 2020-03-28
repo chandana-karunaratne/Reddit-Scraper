@@ -1,4 +1,4 @@
-## Welcome to GitHuub Pages
+## Welcome to GitHuub Pagees
 
 You can use the [editor on GitHub](https://github.com/chandana-karunaratne/Reddit-Scraper/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
